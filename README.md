@@ -2,7 +2,7 @@
 
 Try to guess all 50 states from the United States. If you type "exit", the game will close and a CSV file will be created containing all missed states for you to learn. 
 
-This game was created with Python Turtle Module. A map of the United States is laid in front of the user with a prompt question: "What's another U.S. state name?". Each time the user answers a correct U.S. state name, the name will be written on the map at the exact location. For each correct guess, the prompt title will increase. 
+This game was created with Python Turtle Module. A map of the United States is laid in front of the user with a prompt question: "What's another U.S. state name?". Each time the user answers a correct U.S. state name, the name is written on the map at the exact location. For each correct guess, the prompt title will increase. 
 
 To exit the game please type "exit".
 
