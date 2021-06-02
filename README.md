@@ -8,7 +8,7 @@ To exit the game please type "exit".
 
 ---
 
-# PT: Quiz dos estados dos Estados Unidos
+# PT: Quiz dos estados dos EUA
 
 Tente adivinhar os 50 estados dos Estados Unidos. Se você digitar "exit" (sair), o jogo vai fechar e um arquivo CSV será criado contendo todos os estados que faltaram, para ajudar a aprender. 
 
