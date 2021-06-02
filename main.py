@@ -13,6 +13,14 @@ correct_states = []
 while len(correct_states) < 50:
     user_state = screen.textinput(title=f"{len(correct_states)}/50 US 'State' Quiz!",
                                   prompt="What's another US state name?").strip().title()
+    if user_state == "Exit":
+        missed_states = []
+        for state in us_states:
+            if state not in correct_states:
+                missed_states.append(state)
+        new_data = pandas.DataFrame(missed_states)
+        new_data.to_csv("states_to_learn.csv")
+        break
     if user_state in us_states:
         correct_states.append(user_state)
         t = turtle.Turtle()
