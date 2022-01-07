@@ -2,7 +2,7 @@ _This README.md file is in English and Portuguese. // Esse arquivo README.md est
 
 # EN: US States Quiz Game
 
-⚠️ _This was done as I followed up Angela Yu's Python Bootcamp tutorial on the Pong Game. You can find the course [on Udemy here](https://www.udemy.com/course/100-days-of-code/)._ ⚠️
+⚠️ _This was done as I followed up Angela Yu's Python Bootcamp tutorial on the US Game. You can find the course [on Udemy here](https://www.udemy.com/course/100-days-of-code/)._ ⚠️
 
 ![desktop version of the US state quizz game](game.png)
 
@@ -16,7 +16,7 @@ To exit the game please type "exit".
 
 # PT: Quiz dos estados dos EUA
 
- ⚠️ _Isso foi criado enquanto eu seguia o tutorial do Jogo da Cobrinha do Bootcamp de Python da Angela Yu. O curso está [disponível na Udemy aqui](https://www.udemy.com/course/100-days-of-code/)_. ⚠️
+ ⚠️ _Isso foi criado enquanto eu seguia o tutorial do Jogo do Quiz dos EUA do Bootcamp de Python da Angela Yu. O curso está [disponível na Udemy aqui](https://www.udemy.com/course/100-days-of-code/)_. ⚠️
 
 ![desktop version of the US state quizz game](game.png)
 
