@@ -1,4 +1,10 @@
+_This README.md file is in English and Portuguese. // Esse arquivo README.md está em Inglês e Português._
+
 # EN: US States Quiz Game
+
+⚠️ _This was done as I followed up Angela Yu's Python Bootcamp tutorial on the Pong Game. You can find the course [on Udemy here](https://www.udemy.com/course/100-days-of-code/)._ ⚠️
+
+![desktop version of the US state quizz game](game.png)
 
 Try to guess all 50 states from the United States. If you type "exit", the game will close and a CSV file will be created containing all missed states for you to learn. 
 
@@ -9,6 +15,10 @@ To exit the game please type "exit".
 ---
 
 # PT: Quiz dos estados dos EUA
+
+ ⚠️ _Isso foi criado enquanto eu seguia o tutorial do Jogo da Cobrinha do Bootcamp de Python da Angela Yu. O curso está [disponível na Udemy aqui](https://www.udemy.com/course/100-days-of-code/)_. ⚠️
+
+![desktop version of the US state quizz game](game.png)
 
 Tente adivinhar os 50 estados dos Estados Unidos. Se você digitar "exit" (sair), o jogo vai fechar e um arquivo CSV será criado contendo todos os estados que faltaram, para ajudar a aprender. 
 
